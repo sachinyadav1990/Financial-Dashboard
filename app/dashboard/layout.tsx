@@ -1,3 +1,3 @@
 export default function Layout() {
-    return
+    return <div>Layout</div>
 }
